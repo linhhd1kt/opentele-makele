@@ -90,10 +90,10 @@ nav:
     - LoginFlag: documentation/authorization/loginflag.md
   - Exceptions:
     - Home: documentation/exceptions/README.md
-repo_url: https://github.com/thedemons/opentele
-site_author: thedemons
+repo_url: https://github.com/linhhd1kt/opentele-makele
+site_author: linhhd1kt
 site_description: A python library created to make life easier for Telegram API Developers.
-site_name: opentele
+site_name: opentele-makele
 theme:
   custom_dir: theme
   features:
