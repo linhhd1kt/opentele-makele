@@ -4,7 +4,7 @@ import re
 
 README = (pathlib.Path(__file__).parent / "README.md").read_text()
 
-PACKAGE_NAME = "opentele"
+PACKAGE_NAME = "opentele-makele"
 VERSION = "1.15.1"
 SOURCE_DIRECTORY = "src"
 
@@ -20,9 +20,9 @@ setup(
     description="A Python Telegram API Library for converting between tdata and telethon sessions, with built-in official Telegram APIs.",
     long_description=README,
     long_description_content_type="text/markdown",
-    url="https://github.com/thedemons/opentele",
+    url="https://github.com/linhhd1kt/opentele-makele",
     author="thedemons",
-    author_email="thedemons@gmail.com",
+    author_email="haduclinhbkit@gmail.com",
     classifiers=[
         "License :: OSI Approved :: MIT License",
         "Operating System :: Microsoft :: Windows",
